@@ -1,6 +1,6 @@
-const express = require('express');
+const express = require("express");
 
-const notesRouter = require('./notes');
+const notesRouter = require("./notesRoute");
 
 const app = express();
 
