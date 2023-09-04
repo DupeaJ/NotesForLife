@@ -1,17 +1,12 @@
 [
     {
-        "title": "Test Title",
-        "text": "Test text",
-        "id": "1"
-    },
-    {
-        "title": "testing",
-        "text": "testing text",
+        "title": "water",
+        "text": "Water is essential, dont forget to drink some",
         "note_id": "a838"
     },
     {
-        "title": "test2",
-        "text": "testing as text",
+        "title": "Hello",
+        "text": "I wanted to leave this for you",
         "id": "1fe5"
     }
 ]
