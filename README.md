@@ -37,6 +37,7 @@ Starter code cloned from [GitHub - Miniature Eureka](https://github.com/coding-b
 Refer to the repository for licensing information. This project is under the MIT License.
 
 <h2 align="center">Badges</h2>
+
 ![badge](https://img.shields.io/badge/License-MIT-blue.svg)
 
 <h2 align="center">Features</h2>
